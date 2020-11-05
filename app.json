@@ -1,0 +1,12 @@
+{
+  "name": "meu-app-maneiro",
+  "displayName": "meu-app-maneiro",
+  "expo": {
+    "name": "meu-app-maneiro",
+    "slug": "meu-app-maneiro",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
