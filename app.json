@@ -2,11 +2,19 @@
   "name": "meu-app-maneiro",
   "displayName": "meu-app-maneiro",
   "expo": {
-    "name": "meu-app-maneiro",
+    "name": "Meu App Maneiro",
     "slug": "meu-app-maneiro",
+    "icon": "./src/assets/images/icon.png",
+    "splash": {
+      "image": "./src/assets/images/splashscreen.png",
+      "backgroundColor": "#FFB1C1"
+    },
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.caiocostaee.meuappmaneiro"
+    }
   }
 }
